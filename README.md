@@ -1,5 +1,7 @@
 # workflow-builder
 
+[English](./README.md) · [简体中文](./README.zh-CN.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](./CHANGELOG.md)
 [![100%25 AI-crafted](https://img.shields.io/badge/100%25-AI--crafted-9cf.svg)](#disclaimer)
