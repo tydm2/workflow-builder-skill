@@ -1,5 +1,9 @@
 # workflow-builder
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](./CHANGELOG.md)
+[![100%25 AI-crafted](https://img.shields.io/badge/100%25-AI--crafted-9cf.svg)](#disclaimer)
+
 **Turn one domain idea into a ready-to-run multi-agent workflow — 1 orchestrator brain + N specialist subagents + one-sentence triggers.**
 
 `workflow-builder` is an agent skill that scaffolds a file-based multi-agent pipeline from a single domain requirement: a planner brain, expert subagents, per-agent knowledge bases, explicit handoff contracts, and a security gate — so any agent host can load the output and start producing immediately.
